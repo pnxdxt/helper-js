@@ -1,6 +1,5 @@
-/*!
+/**
  * Get the URL parameters
- * (c) 2021 Chris Ferdinandi, MIT License, https://gomakethings.com
  * @param  {String} url The URL
  * @return {Object}     The URL parameters
  */
