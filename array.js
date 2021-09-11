@@ -43,7 +43,7 @@ const allEqual = arr => arr.every(val => val === arr[0]);
  * Removes duplicate values in an array
  * @param {Array} arr
  */
-const filterNonUnique = arr => [...new Set(arr)]; 
+const filterNonUnique = arr => [...new Set(arr)];
 
 /**
  * Return an array of elements that appear in two arrays
